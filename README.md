@@ -1,8 +1,4 @@
-# scaffold-react-ts
-
-React/TS boilerplate
-
-## Licence
+# scaffold-preact-ts
 
 ## License
 
